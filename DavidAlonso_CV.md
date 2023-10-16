@@ -1,12 +1,12 @@
 ## Curriculum vitae
-![foto](https://i.redd.it/vp8j6k67ywb31.jpg)
-Nombre: **David Alonso Tur**
-Dirección:
-_Grado Superior en Desarrollo de Aplicaciones Multiplataforma_
-_CIFP Francesc de Borja Moll_
-_Carrer de Caracas, 6_
-_07007 Palma, Illes Balears_
-Email: [**email protected**](davidalonsotur@gmail.com)
+![foto](https://i.redd.it/vp8j6k67ywb31.jpg)  
+Nombre: **David Alonso Tur**  
+Dirección:  
+_Grado Superior en Desarrollo de Aplicaciones   Multiplataforma_  
+_CIFP Francesc de Borja Moll_  
+_Carrer de Caracas, 6_  
+_07007 Palma, Illes Balears_  
+Email: [**email protected**](davidalonsotur@gmail.com)  
 Web: [Mi web](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 ## Resumen
 ## Títulos académicos 
